@@ -1,7 +1,7 @@
 module.exports = {
   root: true,
   extends: [
-    '@react-native', 
+    '@react-native',
     'eslint:recommended',
     'plugin:react/recommended',
     'plugin:react-hooks/recommended',
@@ -17,6 +17,7 @@ module.exports = {
     'react-hooks/rules-of-hooks': 'error',
     'react-hooks/exhaustive-deps': 'warn',
     'no-console': 'warn', // Per evitar deixar console.log en producció
+    'react/react-in-jsx-scope': 'off',
   },
   settings: {
     react: {
