@@ -111,7 +111,7 @@ npm run lint -- --fix
 
 ## 📁 Estructura del Projecte (Resum)
 
-- `android/`: Codi font de l'aplicació.
+- `src/`: Codi font de l'aplicació.
 - `__tests__/`: Suite de tests de Jest.
 - `.eslintrc.js`: Configuració de les regles de l'analitzador.
 - `.prettierrc.js`: Configuració de l'estil de codi.
