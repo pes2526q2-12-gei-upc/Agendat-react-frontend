@@ -1,6 +1,6 @@
 # Agendat - Backoffice Frontend
 
-Aquest repositori conté el **panell d'administració web** desenvolupat amb **React** i **Vite**. Aquesta aplicació permet la gestió integral de dades i usuaris del sistema des del navegador.
+Aquest repositori conté el **panell d'administració web** desenvolupat amb **React** i **Vite**. Aquesta aplicació permet la gestió integral de dades i usuaris del sistema des del navegador
 
 Autors:
 
